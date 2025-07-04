@@ -55,8 +55,14 @@ HEllO WORLD<br>
 <a href = "(https://naver.com" target="_blank">새 탭 열고 이동 </a> (개별싸이트 > 걍 git에서 안됨)
 
 ## 이미지
-.jpg <여야함!
-![제목](./test.image.jpf) <!--현재위치 . 폴더 /-->
+.jpg <여야함!  
+![제목](링크)  
+
+![제목](./test.image.jpg) <!-- 현재위치: . 폴더: / -->
+
+---
+<img src ="./test.image.jpg",width="300",height="200" alt="" />
+
 ## 인용문
 >집에 가고 싶은 1인
 >>오늘 금요일이라구요ㅠㅠㅠ
@@ -69,4 +75,15 @@ HEllO WORLD<br>
 |필요|몰라3|잠|
 
 ## 코드블럭
+
+``` html
+<!DUCTYOE html>
+<html>
+<head>
+ </head>
+  <body>
+  <h1>hello world</hl>
+ </body>
+</html>
+```
 
