@@ -55,8 +55,8 @@ HEllO WORLD<br>
 <a href = "(https://naver.com" target="_blank">새 탭 열고 이동 </a> (개별싸이트 > 걍 git에서 안됨)
 
 ## 이미지
-.jpg <여야함!>
-
+.jpg <여야함!
+![제목](.test.image.jpf) <!--현재위치 . 폴더 /-->
 ## 인용문
 >집에 가고 싶은 1인
 >>오늘 금요일이라구요ㅠㅠㅠ
